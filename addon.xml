@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addon id="plugin.executable.hiebra.github.io"
+	version="0.0.1-snapshot" name="hiebra" provider-name="Santiago Ruiz">
+	<requires>
+		<import addon="xbmc.python" version="3.0.0" />
+		<import addon="script.module.hiebra.github.io"
+			version="0.0.1-snapshot" />
+		<import addon="script.library.hiebra.github.io"
+			version="0.0.1-snapshot" />
+	</requires>
+	<extension point="xbmc.python.pluginsource" library="init.py">
+		<provides>executable</provides>
+	</extension>
+	<extension point="xbmc.service" library="service.py" />
+	<extension point="xbmc.python.library"
+		library="libary.py" />
+	<extension point="xbmc.addon.metadata">
+		<summary lang="en_GB">Family album</summary>
+		<description lang="en_GB">This text should be shown only at
+			development time. It exists to test screen layout and language
+			translations. Its value is taken from the addon.xml file, xpath:
+			addon/extension[@point='xbmc.addon.metadata']/description[@lang='en_GB']
+		</description>
+		<assets>
+			<icon>resources/images/128/icon.png</icon>
+			<fanart>resources/fanart.jpg</fanart>
+		</assets>
+	</extension>
+</addon>

@@ -1,0 +1,128 @@
+# Kodi Media Center language file
+# Addon Name: Family album
+# Addon id: family-album.github.io
+# Addon Provider: Santiago Ruiz
+#
+msgid ""
+msgstr ""
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2023-02-05 11:37+0100\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+
+# Notifications
+
+msgctxt "#99001"
+msgid "Bad configuration"
+msgstr ""
+
+msgctxt "#99002"
+msgid "Edit program settings and retry"
+msgstr ""
+
+# Labels
+
+msgctxt "#99003"
+msgid "Edit program settings"
+msgstr ""
+
+msgctxt "#99004"
+msgid "Retry with the new settings"
+msgstr ""
+
+# Settings
+
+# 1. General (91)
+
+msgctxt "#91000"
+msgid "General"
+msgstr ""
+
+# 1.1 Contents (911)
+
+msgctxt "#91100"
+msgid "Contents"
+msgstr ""
+
+msgctxt "#91101"
+msgid "Data source"
+msgstr ""
+
+msgctxt "#91102"
+msgid "The parent of the all the folders containing the photos and videos. Direct descendants should correspond to independent album volumes. Using a Kodi pictures source is recommended for the album to be extensible (also by yourself)"
+msgstr ""
+
+msgctxt "#91103"
+msgid "Pictures source selector"
+msgstr ""
+
+# 1.2 Behaviour (912)
+
+msgctxt "#91200"
+msgid "Behaviour"
+msgstr ""
+
+msgctxt "#91201"
+msgid "Run this application on Kodi startup"
+msgstr ""
+
+msgctxt "#91202"
+msgid "If enabled, the application will be automatically started when kodi is fully started. You will need to press the 'back' button to see the rest of the Kodi stuff"
+msgstr ""
+
+msgctxt "#91203"
+msgid "Run this application on Kodi startup"
+msgstr ""
+
+msgctxt "#91204"
+msgid "If enabled, the application will be automatically started when kodi is fully started. You will need to press the 'back' button to see the rest of the Kodi stuff"
+msgstr ""
+
+# 2. Appearance (92)
+
+msgctxt "#92000"
+msgid "Appearance"
+msgstr ""
+
+# 1.1 Indexes (921)
+
+msgctxt "#92100"
+msgid "Indexes"
+msgstr ""
+
+msgctxt "#92101"
+msgid "Show indexing numbers in listings"
+msgstr ""
+
+msgctxt "#92102"
+msgid "Indexing information, if present, will be visible in the directory listings if this option is enabled"
+msgstr ""
+
+msgctxt "#92103"
+msgid "Show indexing numbers in breadcrumb"
+msgstr ""
+
+msgctxt "#92104"
+msgid "Indexing information, if present, will be visible in the breadcrumb path show at screen top"
+msgstr ""
+
+
+# 3. System configuration (93)
+
+msgctxt "#93000"
+msgid "System configuration"
+msgstr ""
+
+# 1.1 Recommended settings (931)
+
+msgctxt "#93100"
+msgid "Recomended system settings"
+msgstr ""
+
+msgctxt "#93101"
+msgid "Do not show parent folder items"
+msgstr ""
